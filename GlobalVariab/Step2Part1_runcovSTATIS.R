@@ -1,3 +1,4 @@
+##### Created by Giulia Baracchini #####
 ### Run covSTATIS to assess temporal stability in this script of rsFC across windows ###
 rm(list=ls())
 
