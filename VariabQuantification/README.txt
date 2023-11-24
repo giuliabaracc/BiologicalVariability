@@ -1,0 +1,1 @@
+In this folder, you'll find scripts to derive local BOLD signal variability via rMSSD and global BOLD signal variability via covSTATIS. I also added the PLS analysis script I made to show how covSTATIS-derived area of the hull changes as a function of age.
