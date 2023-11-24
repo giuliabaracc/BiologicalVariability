@@ -1,3 +1,7 @@
 # BiologicalVariability
-Code to replicate analyses in Baracchini et al., 2023 bioRxiv. Code is currently being compiled and will soon be available in this repository.
+Welcome to my rabbit hole! Here, you'll find the code I used in Baracchini et al., 2023 bioRxiv. I am currently slowly cleaning up all my code for you and pushing it to Github. This is this repo's structure:
+./VariabQuantification is where you will find code to obtain local and global BOLD signal variability :)
+./StatisticalProperties is where you will find code to assess stability and topography of local and global BOLD signal variability
+./SpatialScales is where you will find code to obtain micro/meso/macroscale data & relate it to local and global BOLD signal variability
+./TemporalScales is where you will find code to run 1/f and local variability simulations on MEG data
 
