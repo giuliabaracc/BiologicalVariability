@@ -5,9 +5,9 @@ This is this repo's structure:
 
 'VariabQuantification/' is where you will find code to obtain local and global BOLD signal variability :)
 
-'StatisticalProperties/' is where you will find code to assess stability and topography of local and global BOLD signal variability
+'StatisticalProperties/' is where you will find code to assess regional & network stability of local and global BOLD signal variability
 
-'SpatialScales/' is where you will find code to obtain micro/meso/macroscale data & relate it to local and global BOLD signal variability
+'SpatialScales/' is where you will find code to obtain & parcellate micro/meso/macroscale data & relate them to local and global BOLD signal variability
 
 'TemporalScales/' is where you will find code to run 1/f and local variability simulations on MEG data
 
