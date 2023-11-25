@@ -9,6 +9,7 @@ Microscale data:
 Mesoscale data: 
   (1) Parcellated neurotransmitter receptor maps found here: https://github.com/netneurolab/hansen_receptors/tree/main/data/PET_parcellated/scale200
   (2) Compute composite scores
+  (3) Transcriptomics: Abagen gene PC1 "gene_pc1.csv"
 Macroscale data: 
   (1) PET metabolic data: 
   (2) Temporal autocorrelation:
