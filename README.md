@@ -1,5 +1,5 @@
 # BiologicalVariability
-Welcome to my rabbit hole! Here, you'll find the code I used in Baracchini et al., 2023 bioRxiv. 
+In this repository, you will find code related to Baracchini et al., 2025 Nature Communications (previous 2023 bioRxiv). 
 
 This is this repo's structure:
 
