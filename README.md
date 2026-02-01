@@ -1,5 +1,5 @@
 # BiologicalVariability
-In this repository, you will find code related to Baracchini et al., 2025 Nature Communications (previous 2023 bioRxiv). 
+In this repository, you will find code related to Baracchini et al., 2026 Nature Communications. 
 
 This is this repo's structure:
 
